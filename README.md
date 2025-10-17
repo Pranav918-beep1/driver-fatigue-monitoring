@@ -1,5 +1,5 @@
 # driver-fatigue-monitoring
-# 🚗 Driver Fatigue Monitoring System
+#  Driver Fatigue Monitoring System
 
 A deep learning–based system that detects driver drowsiness in real-time using computer vision techniques.  
 This project leverages **OpenCV**, **MediaPipe**, and **Machine Learning** to analyze facial landmarks and eye aspect ratio to predict fatigue and alert the driver.
